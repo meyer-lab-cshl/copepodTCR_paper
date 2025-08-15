@@ -1,0 +1,9 @@
+type	Lu3_fc(%)	Lu4_fc(%)
+DQBlock_pep1	10.6	26.7
+DQBlock_pep2	10.8	19.5
+DRBlock_pep1	0.59	1.04
+DRBlock_pep2	0.65	0.93
+noBlock_pep1	10.5	33.5
+noBlock_pep2	8.95	22.0
+Aph34_noBlock_pep1	0.68	0.71
+Aph34_noBlock_pep2	0.66	0.75
