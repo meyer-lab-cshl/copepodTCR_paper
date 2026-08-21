@@ -7,9 +7,10 @@ We provide experimental guides to efficiently design larger screens covering tho
 
 ### Figures
 
-- Figures1-2-3.ipynb contains the code for figures in the main part of the manuscript. The data used in them is in "data" folder.
-- Figures_Extended-data.ipynb contains the code for Extended data figures.
-- Figures-Supplement.ipynb contains the code for figures from the supplementary materials.
+Every figure has a separate notebook:
+- Main text figures (Main_)
+- Extended data figures (Extended-Data_)
+- Supplementary data figures (Supplementary-Data_)
 
 In the code, we use *codePUB* and *copepodTCR* python packages. *codePUB* is installed automatically when you install *copepodTCR*:
 
@@ -31,4 +32,4 @@ Code for *in silico simulations* is in separate repository: [Peptide pooling sim
 
 ### Authors
 
-Vasilisa A. Kovaleva, David J. Pattinson, Guanchen He, Carl Barton, Sarah R. Chapin, Anastasia A. Minervina, Qin Huang, Paul G. Thomas, Mikhail V. Pogorelyy, Hannah V. Meyer
+Vasilisa A. Kovaleva, David J. Pattinson, Anastasia A. Minervina, Guanchen He, Carl Barton, Sarah R. Chapin, Qin Huang, Paul G. Thomas, Mikhail V. Pogorelyy, Hannah V. Meyer
