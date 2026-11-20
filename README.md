@@ -9,7 +9,6 @@ We provide experimental guides to efficiently design larger screens covering tho
 
 Every figure has a separate notebook:
 - Main text figures (Main_)
-- Extended data figures (Extended-Data_)
 - Supplementary data figures (Supplementary-Data_)
 
 In the code, we use *codePUB* and *copepodTCR* python packages. *codePUB* is installed automatically when you install *copepodTCR*:
